@@ -23,3 +23,11 @@ Each building is assigned a synthetic maximum load (in kVA) using a truncated no
 - Summary statistics and per-zone demand profiles displayed interactively.
 
 ![image](https://github.com/user-attachments/assets/ad0b2897-ef4a-4ef8-98cd-f0e1ebcad7e2)
+
+# 🏛 Funding & Acknowledgements
+
+This work is part of the Hochschule Bremen’s subproject within the hyBit research initiative. It is funded by the German Federal Ministry of Education and Research (BMBF) under grant number 03SF0687G.
+
+Das Teilvorhaben der Hochschule Bremen im Projekt hyBit wird unter dem Förderkennzeichen 03SF0687G vom Bundesministerium für Bildung und Forschung (BMBF) gefördert
+![image](https://github.com/user-attachments/assets/9293fe53-dc1b-4877-8f39-387e4d64998f)
+
