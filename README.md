@@ -31,3 +31,8 @@ This work is part of the Hochschule Bremen’s subproject within the hyBit resea
 Das Teilvorhaben der Hochschule Bremen im Projekt hyBit wird unter dem Förderkennzeichen 03SF0687G vom Bundesministerium für Bildung und Forschung (BMBF) gefördert
 ![image](https://github.com/user-attachments/assets/9293fe53-dc1b-4877-8f39-387e4d64998f)
 
+# Author
+Alejandro Zabala Figueroa 
+https://www.hs-bremen.de/person/azabala-figueroa/
+
+
