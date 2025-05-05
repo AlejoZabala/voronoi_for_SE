@@ -1,0 +1,19 @@
+name: hybit-energy-voronoi
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - geopandas
+  - shapely>=2.0
+  - matplotlib
+  - scikit-learn
+  - numpy
+  - pandas
+  - pyproj
+  - fiona
+  - gdal
+  - longsgis  # if available via conda-forge or use pip below
+  - pip
+  - pip:
+      - ace-tools-open  # if ace_tools is a pip package
+      - longsgis        # if not available via conda, fallback to pip
