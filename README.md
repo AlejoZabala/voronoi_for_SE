@@ -21,3 +21,5 @@ Each building is assigned a synthetic maximum load (in kVA) using a truncated no
 - Voronoi zones visualized and color-coded by aggregated load.
 - Buildings are shaded with lighter tones.
 - Summary statistics and per-zone demand profiles displayed interactively.
+
+![image](https://github.com/user-attachments/assets/ad0b2897-ef4a-4ef8-98cd-f0e1ebcad7e2)
