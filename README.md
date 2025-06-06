@@ -26,9 +26,7 @@ Each building is assigned a synthetic maximum load (in kVA) using a truncated no
 
 # 🏛 Funding & Acknowledgements
 
-This work is part of the Hochschule Bremen’s subproject within the hyBit research initiative. It is funded by the German Federal Ministry of Education and Research (BMBF) under grant number 03SF0687G.
-
-Das Teilvorhaben der Hochschule Bremen im Projekt hyBit wird unter dem Förderkennzeichen 03SF0687G vom Bundesministerium für Bildung und Forschung (BMBF) gefördert
+The project underlying this software was funded by the Federal Ministry of Research, Technology, and Space (BMFTR) under grant number 03SF0687G. Responsibility for the content of this publication lies with the author.
 ![image](https://github.com/user-attachments/assets/9293fe53-dc1b-4877-8f39-387e4d64998f)
 
 # Author
