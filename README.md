@@ -35,4 +35,7 @@ Das Teilvorhaben der Hochschule Bremen im Projekt hyBit wird unter dem Förderke
 Alejandro Zabala Figueroa 
 https://www.hs-bremen.de/person/azabala-figueroa/
 
+## Citation
 
+If you use this code, please cite the following:
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15608364.svg)](https://doi.org/10.5281/zenodo.15608364)
